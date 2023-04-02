@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente estudando **Front-End**
 - 🌱 Aprendendo Javascript  
-- ⚡ Curiosidades e hobbies:Gosto muito de coisas novas já treino musculaçao💪🏻 por um tempo
+- ⚡ Curiosidades e hobbies : Gosto muito de coisas novas já treino musculaçao💪🏻 por um tempo
 e voltei a fazer karaté 🥋,alem de adorar desenhar✏️ e assistir animes ❟❛❟ kkkk.
 
 
