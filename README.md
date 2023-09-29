@@ -29,5 +29,4 @@ e voltei a fazer karaté 🥋,alem de adorar desenhar✏️ e assistir animes �
 
 <div>
   <a href="https://www.linkedin.com/in/phelipe-santos-2b0455177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://phelipe-santos.vercel.app/"><img src="https://img.shields.io/badge/Curriculo-04C4D9?style=for-the-badge&logo=About.me&logoColor=white"/>
 </div>
