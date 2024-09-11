@@ -1,8 +1,7 @@
 # Ola meu nome e Phelipe 👋
 
 - 📚 Aqui e meu repositorio de estudos onde guardo tudo o que aprendo e desenvolvo com programação fique a vontade para olhar se tiver interesse 👍
-- 👨‍💻 Atualmente estudando **Front-End**
-- 🌱 Aprendendo Javascript  
+- 👨‍💻 Atualmente estudando **Front-End** 
 - ⚡ Curiosidades e hobbies : Gosto muito de coisas novas já treino musculaçao💪🏻 por um tempo
 e voltei a fazer karaté 🥋,alem de adorar desenhar✏️ e assistir animes ❟❛❟ kkkk.
 
